@@ -1,3 +1,3 @@
 # first_prepo_on_git
 This is my first git hub repository
-Author - Kishan jaiswal
+Author - Kishan jaiswal (Ai engineer)
